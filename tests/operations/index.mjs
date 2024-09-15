@@ -145,6 +145,7 @@ import "./tests/SM4.mjs";
 import "./tests/StrUtils.mjs";
 import "./tests/StripIPv4Header.mjs";
 import "./tests/StripTCPHeader.mjs";
+import "./tests/StripUDPHeader.mjs";
 import "./tests/Subsection.mjs";
 import "./tests/SwapCase.mjs";
 import "./tests/SymmetricDifference.mjs";
